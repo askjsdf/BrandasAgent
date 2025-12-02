@@ -4,7 +4,12 @@
       "Bash(findstr:*)",
       "Bash(git init:*)",
       "Bash(git add:*)",
-      "Bash(git commit -m \"$(cat <<''EOF''\nInitial commit: Brand as Agent 课程分享网站\n\n- 完整的7章节学术课程展示HTML\n- 响应式设计CSS样式表\n- 交互功能JavaScript（动画、Lightbox图片放大等）\n- 19张配图素材\n- 参考文献链接\n\n🤖 Generated with [Claude Code](https://claude.com/claude-code)\n\nCo-Authored-By: Claude <noreply@anthropic.com>\nEOF\n)\")"
+      "Bash(git commit -m \"$(cat <<''EOF''\nInitial commit: Brand as Agent 课程分享网站\n\n- 完整的7章节学术课程展示HTML\n- 响应式设计CSS样式表\n- 交互功能JavaScript（动画、Lightbox图片放大等）\n- 19张配图素材\n- 参考文献链接\n\n🤖 Generated with [Claude Code](https://claude.com/claude-code)\n\nCo-Authored-By: Claude <noreply@anthropic.com>\nEOF\n)\")",
+      "Bash(git config:*)",
+      "Bash(git remote add:*)",
+      "Bash(git branch:*)",
+      "Bash(git push:*)",
+      "Bash(git commit:*)"
     ],
     "deny": [],
     "ask": []

@@ -2520,6 +2520,15 @@ blockquote {
     margin-bottom: var(--spacing-md);
 }
 
+.risk-case .case-content {
+    flex: 1;
+    min-width: 0;
+}
+
+.risk-case .case-content .case-comic {
+    margin-top: var(--spacing-md);
+}
+
 .case-warning {
     display: flex;
     align-items: flex-start;
